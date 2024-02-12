@@ -65,6 +65,3 @@ Se você quiser contribuir para este projeto, siga estas etapas:
 
 Este projeto está licenciado sob a MIT License. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
----
-
-Este é apenas um exemplo de como você pode estruturar o README para o seu projeto. Certifique-se de personalizá-lo conforme necessário, incluindo detalhes específicos sobre sua aplicação, endpoints disponíveis, operações CRUD implementadas, entre outros.
